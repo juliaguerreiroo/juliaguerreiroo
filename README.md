@@ -35,5 +35,5 @@
 
 <h2 align="left">My Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliah123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliah123&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliaguerreiroo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaguerreiroo&layout=compact&theme=tokyonight)
